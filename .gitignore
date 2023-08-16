@@ -1,0 +1,7 @@
+*.pyc
+docs/_build/
+pyspark.egg-info
+build/
+dist/
+data/
+.ipynb_checkpoints/
